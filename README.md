@@ -1,0 +1,2 @@
+# QR registro con gsheet
+ 
